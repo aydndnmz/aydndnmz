@@ -1,9 +1,9 @@
-<h1 align="center">👋 Merhaba, I'm Aydin !</h1>  
+<h1 align="center">👋 Merhaba, I'm Aydin!</h1>  
 <h3 align="center">AWS Solutions Architect | Azure | DevOps Engineer | Cloud Enthusiast ☁️</h3>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aydin-donmez/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://medium.com/@aydndnmz]"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"></a>
+  <a href="mailto:aydndnmz@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"></a>
 </p>
 
 
@@ -13,7 +13,7 @@
 
 🌱 **I am currently working on AWS EC2 Snapshots and AMIs.**  
 
-📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/aydndnmz/) | [GitHub](https://github.com/aydndnmz) | [Mail](aydndnmz@gmail.com)  
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/aydndnmz/) | [GitHub](https://github.com/aydndnmz) | [Medium](https://medium.com/@aydndnmz)  
 
 
 #### **🌩️ Cloud & DevOps**  
@@ -29,16 +29,16 @@
 
 ## 📊 My GitHub Statistics
 
-![Aydin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suemeyyecevik&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Sümeyye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydndnmz&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ### 🔥 My Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suemeyyecevik&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aydndnmz&theme=radical)
 
 ### 💻 Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suemeyyecevik&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydndnmz&layout=compact&theme=radical)
 
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suemeyyecevik&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aydndnmz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
