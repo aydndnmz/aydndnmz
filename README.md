@@ -13,8 +13,7 @@
 
 🌱 **I am currently working on AWS EC2 Snapshots and AMIs.**  
 
-📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/aydndnmz/) | [GitHub](https://github.com/aydndnmz) | [Medium](https://medium.com/@aydndnmz)  
-
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/aydndnmz/) | [GitHub](https://github.com/aydndnmz) 
 
 #### **🌩️ Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
