@@ -121,22 +121,9 @@ Here, you’ll find practical implementations using **Flask, Nginx, Boto3**, and
 - Step-by-step skill progression for developers moving to AWS Cloud
 - “What to learn next” recommendations after each project
 
----
 
-## [## 💻 Sample Projects
 
-## | Project Name               | Description                                                                                   | Link                                            |
-## |--------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------## ---------|
-## | `flask-ec2-nginx`         | Deploying a Flask app on AWS EC2 with Nginx + Gunicorn, including HTTPS SSL setup             | [View Repo]## (https://github.com/aydndnmz/FLASK-PR/tree/main/flask-1-2-2/flask-02-Jinja_Template) |
-## | `s3-static-website`        | Hosting a static website on Amazon S3 with CloudFront and Route 53 for global distribution    | [View Repo]## ## ##(https://github.com/aydndnmz) |
-## | `boto3-scripts`            | Python scripts automating AWS services using Boto3 (S3 upload, EC2 start/stop, IAM management) | [View Repo]##(https://github.com/aydndnmz) |
-## | `terraform-vpc-nat`        | Terraform code to build a secure AWS VPC with public/private subnets and NAT Gateway          | [View Repo](https://github.com/aydndnmz) |
-## | `aws-lambda-api`           | Serverless API using AWS Lambda, API Gateway, and DynamoDB                                    | [View Repo]## (https://github.com/aydndnmz) |
-## | `flask-rds-app`            | Flask application connected to AWS RDS (PostgreSQL) database                                  | [View Repo]([https://github.com/yourusername/flask-rds-app](https://github.com/aydndnmz/SQL-Flask)) |
-## | `ec2-autoscaling-demo`      | Demo project for setting up EC2 Auto Scaling Group and Load Balancer                         | [View Repo](https://github.com/aydndnmz) |
-## | `cloudwatch-monitoring`     | Custom CloudWatch metrics and SNS alerts for monitoring AWS resources                        | [View Repo](https://github.com/aydndnmz) |
 
-## ---](url)## 
 
 ## 💬 Why I Built This Page
 
